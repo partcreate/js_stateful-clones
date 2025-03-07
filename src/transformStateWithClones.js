@@ -34,6 +34,7 @@ function transformStateWithClones(state, actions) {
         break;
 
       default:
+        // not to do (noop)
         break;
     }
 
